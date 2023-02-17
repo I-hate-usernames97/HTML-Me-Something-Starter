@@ -1,1 +1,6 @@
-/* Write your CSS here! */
+   img {
+           width: 200px;
+           height: 250px;
+           float: left;
+           margin-right: 15px;
+         }
