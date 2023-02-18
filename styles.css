@@ -1,6 +1,32 @@
    img {
-           width: 200px;
-           height: 250px;
-           float: left;
-           margin-right: 15px;
+   width: 200px;
+   height: 250px;
+   margin: 8px;
+   }
+   p {
+      margin: 15px;
+      text-align: center;
+      border: 1px solid black;
+      color: white;
+      background-color:rgb(105,176,131);
+      padding-top: 25px;
+      padding-right: 15px;
+      padding-bottom: 25px;
+      padding-left: 15px;
+   }
+   body {
+   font-size: 100%;
+   margin: 8px;
+   }
+
+   #mainHeading {
+   color: red;
+   }
+   .funParagraph{
+background-color:rgb(105,176,131);
+    padding: 10px;
+   }
+   #testP{
+
+
          }
