@@ -1,3 +1,5 @@
+
+/* This is my styles */
    img {
    width: 200px;
    height: 250px;
@@ -20,7 +22,7 @@
    }
 
    #mainHeading {
-   color: red;
+   color:rgb(233,44,63) ;
    }
    .funParagraph{
 background-color:rgb(105,176,131);
