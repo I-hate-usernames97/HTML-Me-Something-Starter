@@ -24,11 +24,14 @@
    #mainHeading {
    color:rgb(233,44,63) ;
    }
+
    .funParagraph{
 background-color:rgb(105,176,131);
     padding: 10px;
    }
+   
    #testP{
-
+background-color:rgb(105,176,131);
+    padding: 10px;
 
          }
